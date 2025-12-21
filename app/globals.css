@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Diğer özel CSS kuralların aşağıda kalabilir */
+:root {
+  --background: #131314;
+  --foreground: #e3e3e3;
+}
