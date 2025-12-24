@@ -1,9 +1,8 @@
-# Türkçe Kod Üreten ve Açıklayan Yapay Zeka Aracı
+# Türkçe Kod Üreten Yapay Zeka Aracı
 
 ## Proje Tanımı
 Bu proje, kullanıcının Türkçe doğal dilde ifade ettiği programlama problemlerini anlayarak
-ilgili kodu otomatik olarak üreten ve üretilen kodun ne işe yaradığını adım adım açıklayan
-yapay zeka destekli bir sistemdir.
+ilgili kodu otomatik olarak üreten yapay zeka destekli bir sistemdir.
 
 Sistem, Büyük Dil Modelleri (LLM) kullanarak doğal dil işleme, kod üretimi ve açıklama
 yetkinliklerini bir araya getirmektedir.
@@ -13,8 +12,7 @@ yetkinliklerini bir araya getirmektedir.
 ## Projenin Amaçları
 - Türkçe yazılmış programlama problemlerini doğru şekilde analiz etmek
 - Kullanıcı isteğine uygun, çalışabilir ve temiz kod üretmek
-- Üretilen kodun mantığını adım adım açıklayarak öğrenmeyi desteklemek
-- Kod üretimi ve açıklama süreçlerinde yapay zeka kullanımını göstermek
+- Kod üretimi süreçlerinde yapay zeka kullanımını göstermek
 - LLM tabanlı üretken yapay zeka uygulamalarına örnek bir sistem geliştirmek
 
 ---
